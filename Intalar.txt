@@ -1,0 +1,8 @@
+-Instalar python:
+
+-Instalar pycharm: Comunity
+https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows
+
+-Instalar pygame: python -m pip install pygame 
+https://www.pygame.org/news
+
