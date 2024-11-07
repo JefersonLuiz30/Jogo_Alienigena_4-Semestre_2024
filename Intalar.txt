@@ -6,3 +6,8 @@ https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows
 -Instalar pygame: python -m pip install pygame 
 https://www.pygame.org/news
 
+
+17/10/24
+Com base nos conceitos praticados durante a construção do jogo Invação Alienigena, realize as seguintes melhorias no game:
+Ajuste o background do jogo para uma imagem que ilustre um céu ou espaço sideral. 
+Ajuste para que a nave inicie no centro da tela e permita que o jogador movimente também a nave para cima e para baixo
